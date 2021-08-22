@@ -7,6 +7,7 @@ export default function Home() {
     <>
       <h1>git training</h1>
       <h1>git 2</h1>
+      <h1>git 3</h1>
     </>
   )
 }
